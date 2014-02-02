@@ -44,9 +44,18 @@ SqlMap
 
 SqlNinja
 
+WPScan
 
+BEEF XSS Framework
 
+Cowpatty
 
+Blindelephant
 
+u3-pwn
 
+Iodine
 
+Ncat
+
+Hashcat
