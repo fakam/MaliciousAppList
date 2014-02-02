@@ -30,6 +30,20 @@ w3af
 
 Scapy
 
+Hydra
+
+Aircrack
+
+ophcrack
+
+Snort
+
+SqlMap
+
+SqlNinja
+
+
+
 
 
 
