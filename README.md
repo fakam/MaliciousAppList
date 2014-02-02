@@ -20,5 +20,17 @@ Netcat
 
 tcpdump
 
+Kismit
+
+Ettercap
+
+Nmap
+
+w3af
+
+Scapy
+
+
+
 
 
