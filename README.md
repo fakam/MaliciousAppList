@@ -18,7 +18,6 @@ John the Ripper
 
 Nessus
 
-Cain and Abel
 
 Netcat
 
