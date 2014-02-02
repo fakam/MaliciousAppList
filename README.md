@@ -10,9 +10,15 @@ Metasploit
 
 Nikto
 
-JackTheRipper
+John the Ripper
 
 Nessus
 
-Adding more soon
+Cain and Abel
+
+Netcat
+
+tcpdump
+
+
 
