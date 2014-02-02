@@ -18,14 +18,7 @@ John the Ripper
 
 Nessus
 
-
-Netcat
-
-tcpdump
-
 Kismit
-
-Ettercap
 
 Nmap
 
@@ -38,8 +31,6 @@ Hydra
 Aircrack
 
 ophcrack
-
-Snort
 
 SqlMap
 
@@ -57,6 +48,10 @@ u3-pwn
 
 Iodine
 
-Ncat
-
 Hashcat
+
+# Questionable (these have legit purposes in software dev, not just pentesting)
+
+Ettercap - You can use this to reverse engineer stuff
+
+Mitmproxy - Same as Ettercap
