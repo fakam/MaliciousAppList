@@ -38,8 +38,12 @@ u3-pwn
 
 Iodine
 
+p0f
+
 Hashcat
 
 Ettercap
 
 Mitmproxy
+
+rtorrent
