@@ -1,7 +1,6 @@
 MaliciousAppList
 ================
 
-Page: http://fakam.github.io/MaliciousAppList
 
 List of Applications used for malicious purposes.
 
