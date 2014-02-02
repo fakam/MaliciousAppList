@@ -3,8 +3,6 @@ MaliciousAppList
 
 List of Applications used for malicious purposes.
 
-~ONLY NON GRAPHICAL LINUX APPS~
-
 List:
 ================
 
@@ -44,9 +42,18 @@ SqlMap
 
 SqlNinja
 
+WPScan
 
+BEEF XSS Framework
 
+Cowpatty
 
+Blindelephant
 
+u3-pwn
 
+Iodine
 
+Ncat
+
+Hashcat
