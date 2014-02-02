@@ -50,8 +50,6 @@ Iodine
 
 Hashcat
 
-# Questionable (these have legit purposes in software dev, not just pentesting)
+Ettercap
 
-Ettercap - You can use this to reverse engineer stuff
-
-Mitmproxy - Same as Ettercap
+Mitmproxy
