@@ -1,7 +1,7 @@
 // Hello from Mark and Josh
 $.ajax({
     type: "GET",
-    url: "list.txt",
+    url: "https://raw2.github.com/joshumax/MaliciousAppList/master/list.txt",
     success: function(data) {
         // EpicEditor -Josh
         var opts = {
